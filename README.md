@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manashrai16
-- 👀 I’m interested in blockchain.
+- 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
